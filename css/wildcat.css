@@ -1,0 +1,10 @@
+.important {
+  color: red;
+}
+.unimportant {
+  color: blue;
+}
+.cool {
+  color :blue;
+  font-size: 40px;
+}
